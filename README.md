@@ -4,4 +4,4 @@ An API I developed for an E-Commerce project where the frontend is developed wit
 
 
 
-Frontend repository : [frontend](http://rajkoculibrk-001-site1.ctempurl.com/swagger/index.html).
+Frontend repository : [frontend](https://github.com/RajkoCulibrk/React_E-commerce).
