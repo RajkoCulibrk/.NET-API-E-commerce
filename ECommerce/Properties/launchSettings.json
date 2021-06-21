@@ -1,0 +1,40 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63270",
+      "sslPort": 44334
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "gmailPassword": "gospodinchamuga",
+        "Tajna": "1234567891234567",
+        "sql": "Data Source=.;Initial Catalog=DBEcommerce;Integrated Security=True;MultipleActiveResultSets=True",
+        "gmailSender": "mrcharuga@gmail.com",
+        "Cloudname": "dui23wclz",
+        "ApiSecret": "pTyXlSEFo3wAkA4QFE5UlSV8B3E",
+        "ApiKey": "117629978674684",
+        "EmailKey": "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",
+        "gmailPort": "587",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "ECommerce": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    }
+  }
+}
